@@ -1,0 +1,1 @@
+import{V as a,_ as t}from"./VApp-ca569c71.js";import{o as e,c as o,w as r,a as s}from"./index-9f2b5235.js";import"./VMain-8ed88d3c.js";import"./tag-f0012e75.js";const l={__name:"Default",setup(_){return(c,p)=>(e(),o(a,null,{default:r(()=>[s(t)]),_:1}))}};export{l as default};
